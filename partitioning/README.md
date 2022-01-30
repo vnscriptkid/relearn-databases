@@ -8,3 +8,10 @@
     - hash (consistent hashing)
   - vertical: by columns
     - when? separate large columns (blob) out of table 
+- partitioning vs sharding
+
+| factors | partitioning | sharding |
+| -- | -- | -- |
+| physical | partitions are in same servers | partitions are in diff servers (distributed systems) |
+| client | server job, client agnostic | client is aware of partitions |
+| table names | diff table names | same table name
