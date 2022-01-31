@@ -1,3 +1,9 @@
+## Question:
+
+- 1. why partitioning?
+- 2. types of partitioning?
+- 3. diff btw partitioning vs sharding?
+
 ## Exercise
 
 - 1. Create a container that runs postgres inside
