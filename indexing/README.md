@@ -44,3 +44,7 @@ docker exec -it pg psql -U postgres
 create table temp(t int);
 insert into temp (t) select random()*100 from generate_series(0, 1000000);
 ```
+
+```console
+docker run -d --platform linux/amd64 --name mysql57 -e MYSQL_ROOT_PASSWORD=123456 -e MYSQL_ROOT_HOST=% mysql:5.7
+```
