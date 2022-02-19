@@ -13,3 +13,6 @@
 
 ## hierarchy
 * https://github.com/drsqlgithub/Presentation-Downloads
+
+## perf
+* https://viblo.asia/p/su-dung-explain-de-toi-uu-cau-lenh-mysql-BYjv44gmvxpV
