@@ -13,6 +13,7 @@
 
 ## hierarchy
 * https://github.com/drsqlgithub/Presentation-Downloads
+* https://www.codeproject.com/Tips/5255964/How-to-Create-and-Use-a-Self-referencing-Hierarchi
 
 ## perf
 * https://viblo.asia/p/su-dung-explain-de-toi-uu-cau-lenh-mysql-BYjv44gmvxpV
